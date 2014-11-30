@@ -1,7 +1,7 @@
 {
   "name": "exhibit-autoprefixer",
   "description": "exhibit plugin for adding vendor prefixes to CSS",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.1",
   "keywords": [
     "exhibitplugin"
   ],
